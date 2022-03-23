@@ -22,15 +22,15 @@ enum LoveMsgURL {
   // 网易云热评
   netEaseCloud = 'http://api.tianapi.com/hotreview/index',
   // 获取农历信息
-  lunarDate = 'http://api.tianapi.com/lunar/index',
+  lunarDate = 'http://api.tianapi.com/jiejiari/index',
   // 土味情话
   saylove = 'http://api.tianapi.com/saylove/index',
   // 彩虹屁
   caihongpi = 'http://api.tianapi.com/caihongpi/index',
   // 励志古言
-  inspirationalWord = 'http://api.tianapi.com/lzmy/index',
+  inspirationalWord = 'http://api.tianapi.com/zaoan/index',
   // 笑话
-  joke = 'http://api.tianapi.com/joke/index',
+  joke = 'http://api.tianapi.com/tenwhy/index',
   // 一言
   oneWord = 'https://v1.hitokoto.cn/?encode=json',
 }
